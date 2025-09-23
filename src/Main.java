@@ -4,7 +4,11 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello world!");
+        System.out.printf("Space ... The final frontier.\n" +
+                "These are the voyages of starship Enterprise.\n" +
+                "Its continuing mission to explore strange new worlds,\n" +
+                "to seek out new life and new civilizations.\n" +
+                "To boldly go where no one has gone before!");
 
     }
 }
